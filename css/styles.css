@@ -44,7 +44,7 @@ body {
   justify-content: center;
   align-items: center;
   padding: 200px 0;
-  background-image: url(/images/slider-img.jpg);
+  background-image: url("./images/slider_img.jpg");
   max-width: 1600px;
   background-color: rgba(47, 48, 58, 0.4);
 }
